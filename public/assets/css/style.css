@@ -1,0 +1,20 @@
+.hero{
+  background-image: url('../image/yayasan.jpg');
+  height: 500px;
+  background-size: cover;
+}
+.text{
+  background-color: rgba(0 , 0, 0, 0.2);
+}
+.fb{
+  background-color:#3b5998; ;
+  border: none;
+}
+.wa{
+  background-color:#25d366; ;
+  border: none;
+}
+.ig{
+  background-color:#ac2bac; ;
+  border: none;
+}
